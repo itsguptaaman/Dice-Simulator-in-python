@@ -7,7 +7,7 @@ def dice():
     #initial value of is x='y' and using a while loop
     x="y"
     while(x=="y"):
-        #no will store a rand value btn 1 to 6
+        #no will store a random value btn 1 to 6
         no=random.randint(1,6)
         #Depending on the number we will print value so we are if ,elif and else
         if(no==1):
