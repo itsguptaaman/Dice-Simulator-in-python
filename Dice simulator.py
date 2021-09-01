@@ -4,7 +4,7 @@ import random
 
 #Creating a dice function
 def dice():
-    #initial value of is x='y' and using a while loop
+    #initial value of x is x='y' and using a while loop
     x="y"
     while(x=="y"):
         #no will store a random value btn 1 to 6
